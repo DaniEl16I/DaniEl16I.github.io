@@ -180,7 +180,7 @@ We've made the structure of the site so now we need some content! Let's move on 
 
 ## **TODO 2 :** _Add a Title_
 
-- **2a.** **CODE:** Add your title `<title></title>` tag to where it belongs, between your `<head>` tags.
+- **2a.** **CODE:** Add your title `<Dan's>` tag to where it belongs, between your `<Dan>` tags.
 
  <details> 
      <summary> Click to see what your code should look like after this step</summary>
